@@ -12,7 +12,7 @@ The course introduces programming fundamentals in Python including functions, lo
 <!-- 3. Certificate -->
 ## 🎓 Certificate
 <p align="center">
-  <img src="static/WhatsApp Image 2025-09-07 at 12.24.54.jpeg" alt="CS50P Certificate" width="800"/>
+  <img src="static/WhatsApp Image 2025-09-07 at 12.24.54.jpeg" alt="CS50P Certificate" width="600"/>
 </p>
 
 <!-- 4. Problem Sets -->
